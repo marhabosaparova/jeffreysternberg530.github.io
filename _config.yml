@@ -7,27 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Humanities Data Analysis"
+title                    : "Ben Schmidt (not really my web site)"
 title_separator          : "-"
 name                     : &name "Ben Schmidt"
-description              : &description "personal description"
-url                      : https://humanitiesdataanalysis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Not my real web site: a demo for teaching"
+url                      : https://bmschmidt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "humanitiesdataanalysis/humanitiesdataanalysis.github.io"
+repository               : "bmschmidt/bmschmidt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+
 
 # Social Sharing
 twitter:
@@ -43,6 +31,25 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+
+
+
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+
+
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+
 
 
 staticman:
