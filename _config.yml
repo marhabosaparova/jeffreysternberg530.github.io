@@ -67,10 +67,27 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# So: these lines with hashes at the front are ignored by 
+# So: these lines with hashes/pound signs at the front are ignored by 
 # computers. (They are called 'comments.')
 # TO make things that I have disappeared *reappear* (like a folder
 # for teaching) uncomment them: that is, delete just the hashes from the front.
+
+# Collections
+collections:
+  teaching:
+    output: false
+    permalink: /:collection/:path/
+  publications:
+    output: false
+    permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
+  talks:
+    output: false
+    permalink: /:collection/:path/
+
+
 
 # Defaults
 defaults:
@@ -93,40 +110,40 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-#  - scope:
-#      path: ""
-#      type: teaching
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
-#  - scope:
-#      path: ""
-#      type: publications
-##    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
-#  - scope:
-#      path: ""
-#      type: portfolio
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
-#  - scope:
-##      path: ""
-#      type: talks
-#    values:
-#      layout: talk
-#      author_profile: true
-#      share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 comments:
@@ -236,21 +253,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Sass/SCSS
