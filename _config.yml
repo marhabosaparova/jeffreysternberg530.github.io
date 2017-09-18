@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ben Schmidt (not really my web site)"
+title                    : "Jeffrey Sternberg"
 title_separator          : "-"
-name                     : &name "Ben Schmidt"
-description              : &description "Not my real web site: a demo for teaching"
-url                      : https://bmschmidt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jeffrey Sternberg"
+description              : &description "My Academic Website"
+url                      : https://jeffreysternberg530.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bmschmidt/bmschmidt.github.io"
+repository               : "jeffreysternberg530/jeffreysternberg530.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
 
