@@ -20,12 +20,12 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 # Site Author
 author:
   name             : "Jeffrey L Sternberg"
-  avatar           : "profile.png"
+  avatar           : "coffee_profile.jpg"
   bio              : "PhD Student in Sociology at Northeastern University"
   location         : "Boston, MA"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sternberg.je@husky.neu.edu"
   uri              :
   bitbucket        :
   codepen          :
