@@ -1,7 +1,7 @@
 ---
 title: 'My Introductory Blog Post'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: 2017-09-18
+permalink: /posts/2017/09/blog-post-1/
 tags:
   - images
   - category1
