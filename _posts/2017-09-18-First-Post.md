@@ -1,19 +1,22 @@
 ---
-title: 'Blog Post number 1'
+title: 'My Introductory Blog Post'
 date: 2012-08-14
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - images
   - category1
 ---
+Introduction
+============
 
-This is a sample blog post. I'll overwrite it for my intro post;
-and then I'll 
+My name is Jeff Sternberg and I am a 3rd Year PhD Student in Sociology at Northeastern University. 
 
-Here's a heading
-================
+I am 26 years old and originally from Plymouth, MI, about half-way between Detroit and Ann Arbor.
 
-![Here's an image under a heading](https://dp.la/thumb/8607ed7638370b9a01053a68bf7951e5). (The Exclamation point says it's an image)
+My research looks at the way indidivuals live through global economic restructuring, centered around the intersection of the precariat, global cities, mobility, and post-industrial class formation. I am specifcally looking at how the urban nomad section of the precariat adapt themselves to the post-industrial organization of labor, keeping themselves geographically mobile to pivot to every new economic opportunity.
+
+
+!(http://collections.lib.uwm.edu/digital/api/singleitem/image/agdm/4514/default.jpg?highlightTerms=). (The Exclamation point says it's an image)
 
 Here's a subheading
 -------------------
