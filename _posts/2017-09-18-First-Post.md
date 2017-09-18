@@ -17,7 +17,7 @@ My research looks at the way indidivuals live through global economic restructur
 
 My Self Image
 -------------------
-![My-Self-Image-Picture](https://dp.la/thumb/cfe7fcff1ab00bc2edb7c421068c718e)
+![My-Self-Image-Picture](https://images.nypl.org/index.php?id=1519957&t=w)
 
 I see myself as a sheep dog because I am care-free most of the time.
 
