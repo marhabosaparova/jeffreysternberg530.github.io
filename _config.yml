@@ -19,10 +19,10 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 
 # Site Author
 author:
-  name             : "Jeff"
+  name             : "Jeffrey L Sternberg"
   avatar           : "profile.png"
-  bio              : "A person"
-  location         : "Undisclosed"
+  bio              : "PhD Student in Sociology at Northeastern University"
+  location         : "Boston, MA"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -33,7 +33,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bmschmidt"
+  github           : "jeffreysternberg530"
   google_plus      :
   keybase          :
   instagram        :
