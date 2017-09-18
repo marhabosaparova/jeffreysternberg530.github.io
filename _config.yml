@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 # Site Author
 author:
   name             : "Jeffrey L Sternberg"
-  avatar           : "coffee_profile.jpg"
+  avatar           : "profile.png"
   bio              : "PhD Student in Sociology at Northeastern University"
   location         : "Boston, MA"
   employer         :
@@ -31,7 +31,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/jeff.sternberg"
   foursquare       :
   github           : "jeffreysternberg530"
   google_plus      :
