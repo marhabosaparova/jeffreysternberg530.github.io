@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-To Do List
+My name is Jeff Sternberg and I am a 3rd Year PhD Student in Sociology at Northeastern University.
 
-* Starting a blog post in the `_posts/` folder.
-* Cleaning up the portfolio items pages, or deleting them
-  and the link to portfolios at `_data/navigation.yml`
+I am 26 years old and originally from Plymouth, MI, about half-way between Detroit and Ann Arbor.
 
-Below is a lot of additional information about the template. Delete it!
+My research looks at the way indidivuals live through global economic restructuring, centered around the intersection of the precariat, global cities, mobility, and post-industrial class formation. I am specifcally looking at how the urban nomad section of the precariat adapt themselves to the post-industrial organization of labor, keeping themselves geographically mobile to pivot to every new economic opportunity.
+
+
 
 ---
 
