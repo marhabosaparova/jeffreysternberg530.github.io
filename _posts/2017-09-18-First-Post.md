@@ -7,7 +7,7 @@ tags:
   - category1
 ---
 Introduction
-============
+------------
 
 My name is Jeff Sternberg and I am a 3rd Year PhD Student in Sociology at Northeastern University. 
 
