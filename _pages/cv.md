@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You could upload a CV here, or delete this page from `_pages/cv.md`
+Here is the [PDF](jeffreysternberg530.github.io/files/Sternberg, Jeffrey; Resume 2017.pdf) attachment to my CV
+
+
