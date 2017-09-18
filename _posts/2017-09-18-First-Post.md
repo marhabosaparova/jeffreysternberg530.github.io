@@ -17,7 +17,7 @@ My research looks at the way indidivuals live through global economic restructur
 
 My Self Image
 -------------------
-![My-Self-Image-Picture](jeffreysternberg530.github.io/images/sheep_dog.jpeg){:class="img-responsive"} 
+![My-Self-Image-Picture](https://dp.la/thumb/cfe7fcff1ab00bc2edb7c421068c718e)
 
 I see myself as a sheep dog because I am care-free most of the time.
 
