@@ -19,9 +19,9 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 
 # Site Author
 author:
-  name             : "Horatio Hornblower"
+  name             : "Jeff"
   avatar           : "profile.png"
-  bio              : "A person who hasn't changed the right values in _config.yml yet"
+  bio              : "A person"
   location         : "Undisclosed"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
