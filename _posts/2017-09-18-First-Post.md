@@ -17,9 +17,9 @@ My research looks at the way indidivuals live through global economic restructur
 
 My Self Image
 -------------------
-! (https://dp.la/thumb/cfe7fcff1ab00bc2edb7c421068c718e) 
+!(https://dp.la/thumb/cfe7fcff1ab00bc2edb7c421068c718e) 
 
-I see myself as a sheep dog because most of the time I am care free.
+I see myself as a sheep dog because I am care-free most of the time.
 
 -------------------
 [Here's a link to the course web page](http://benschmidt.org/dighist17)
