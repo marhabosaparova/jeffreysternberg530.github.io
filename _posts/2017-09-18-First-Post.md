@@ -17,7 +17,7 @@ My research looks at the way indidivuals live through global economic restructur
 
 My Self Image
 -------------------
-!(sheep_dog.jpeg). 
+!(sheep dog.jpeg) 
 
 I see myself as a sheep dog because most of the time I am care free.
 
