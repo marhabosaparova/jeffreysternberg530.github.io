@@ -7,5 +7,5 @@ tags:
   - category1
 ---
 Walter Benjamin, Marshall Mcluhan, and the Post-Modern Terrain of the Digital Humanities
-========================================================================================
+-----
 Fill with Content
