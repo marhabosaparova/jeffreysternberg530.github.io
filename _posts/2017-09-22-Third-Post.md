@@ -6,4 +6,4 @@ tags:
   - images
   - category1
 ---
-[The "In Focus: The Evolution of the Personal Camera" Exhibition] (https://dp.la/exhibitions/exhibits/show/evolution-personal-camera)
+[The "In Focus: The Evolution of the Personal Camera" Exhibition](https://dp.la/exhibitions/exhibits/show/evolution-personal-camera)
