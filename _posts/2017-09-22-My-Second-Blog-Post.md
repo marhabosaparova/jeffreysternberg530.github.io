@@ -1,5 +1,5 @@
 ---
-title: 'Digitization as a practical endeavor (still in progress)'
+title: 'Digitization as a practical endeavor'
 date: 2017-09-22
 permalink: /posts/2017/09/blog-post-2/
 tags:
