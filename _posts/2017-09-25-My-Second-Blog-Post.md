@@ -1,6 +1,6 @@
 ---
 title: 'Digitization as a practical endeavor'
-date: 2017-09-22
+date: 2017-09-25
 permalink: /posts/2017/09/blog-post-2/
 tags:
   - images
