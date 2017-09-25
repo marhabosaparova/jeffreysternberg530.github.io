@@ -1,6 +1,6 @@
 ---
 title: 'DPLA Photographs, an Exploration of Top Hats in Cultural and Historic Context'
-date: 2017-09-22
+date: 2017-09-25
 permalink: /posts/2017/09/blog-post-3/
 tags:
   - images
