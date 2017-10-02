@@ -1,6 +1,6 @@
 ---
 title: 'Data and Digital Methods as a Heuristic'
-date: 2017-09-18
+date: 2017-10-02
 permalink: /posts/2017/09/blog-post-6/
 tags:
   - images
