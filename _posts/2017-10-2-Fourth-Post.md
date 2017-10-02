@@ -1,3 +1,12 @@
+---
+title: 'Workset 3: Digitization of John Western's *Outcast Capetown*'
+date: 2017-10-02
+permalink: /posts/2017/10/blog-post-4/
+tags:
+  - images
+  - category1
+---
+
 OCR Version of John Western's Outcast Cape Town
 Western, John. 1981. Outcast Cape Town. Minneapolis: University of Minnesota Press.
 
@@ -23,7 +32,7 @@ now in Australia
 The Society of Friends' Cape Town meeting
 and in memory of Victor Wessels
  
-pe Town in the 74.
+pe Town in the 74.
 Line
 in Cape old Coloured boy, an apartheid tragedy almost a's history.
 train at a suburban sta器 white girlfriend was preg her, because the Mixed Marge across the colour line.
@@ -45,7 +54,7 @@ said, so that our friends won't ask embarrassing questil OinS.”
 ಕ್ಲಿಕ್ಹ$ಚ್ಚd her parents had forbidden her to see her boytienಿ! S family again, “I don't know much about poliS." She said, “but if only he had told me. If only these
 aws that ran y card a 17 •l... :~ - - - - - - - - - - - - - - - " = * ''
  
-Contents
+Contents
 Foreword xi Prologue (1996) xv
 Preface xxxi
 PART II. INTRODUCTION
@@ -68,12 +77,12 @@ Chapter 10. The Shantytowns:
 Trying to Keep the Lid On 277 Chapter 11. Apartheid in South Africa:
 An Uncertain Conclusion 309
  
-Foreword
+Foreword
 Robert Coles
 I first met John Western in Cape Town, a city whose mixture of natural beauty (I know no place anywhere quite so dramatically appealing) and terrible human tragedy is the subject of this remarkable and important inquiry. The year was 1974; I had come to the city at the invitation of the students at the University of Cape Town, South Africa's oldest educational institution. During my stay in the city, I began to hear, naturally, of the various racially connected injustices that, in sum, are South Africa's exceedingly heavy burdenheavy to the point that one wonders how long it will be until an awful Armageddon is faced by the millions of human beings who live in cities such as Cape Town, Johannesburg, Durban, and Port Elizabeth, not to mention the countless towns and villages of South Africa. Among the students I met during that rainy August I spent in Cape Town was a rangy and obviously bright and discerning Englishnan who struck me as being brilliantly informed, not only about the People of South Africa and its history and cultural life, but about my Wn, country as well, especially about the difficulties America's blacks and Indians have faced as they have tried to obtain an all too Sive political and economic equity with their powerful, white fellow citizens. sး `မျို° 1974 I have stayed in touch with John Western and his |းမျို African wife, Wendy Western; I have watched a research fiါူ get done, a couple realize how hard it would be for them 蠶 to live in South Africa, and two "foreigners" take up resitionો in the United States and contribute significantly, to its educasets. I have also watched this book gradually take shape: the
 Care a པོའི་སྐul and knowing observations, the interviews the staristical data
  
-REWORD
+REWORD
 pher, a member of a profession not rican public. He is interested in the the human landscape-in this book, is where, and why? Who lives how re and ended up living there, and, of sociology, history, anthropology, »logy, economics, and politics, since the way people live. But the social ares of place: the neighborhood ΟΥ ovince as something to be examine
 like John Western the lines on a
 ditions of plunder, schemes, sleights d defeats,
@@ -112,7 +121,7 @@ The phrase "political joy" may strike many readers as close to oxymoronic. Yet t
 These questions may be addressed in the first instance by investiEating how this awful legacy came to be. Such is the topic of Outcast Cape Town. The reader will come to appreciate that the roots of Partheid may be traced back to Cape Town's establishment in the Mwenteenth century, founded as part of that same great Dutch 蠶 trading enterprise that had founded New Amsterdam just a all ov黑 * earlier. Yet apartheid was not inevitable. Processes seen tive pe world-European commercial expansion, conquest of naS ¥.့် o: European appropriation of their lands, trans-oceanic colonial ဖြိုးမိုးါ;ü nineteenth-century competitiye imperialisms, "Settlers' demands for political independence from the mother
  
  
-OLOGUE
+OLOGUE
 itch colonial empire brought differults, in what have become variously Brazil, or Sri Lanka, or Indonesia, or ular South African combination gave ex-colonial, racially discriminatory African variant, however, was superpment of worldwide European decolno mere coincidence-a stringently ssification. Its name, simply enough bring infamy upon this otherwise reli of the world': apartheid. what apartheid's imposition meant for e time this book was first published in |uarter century during which to transa colonial city. Although racial differinescapably, a major determinant of the city was still in 1948 one of the n sub-Saharan Africa. It is my conrb city was then remade in the image he forty-year period during which ulers of South Africa. Given the city's tercontinental trade and slavery-of ajority of Capetonians have been neiixed-race" persons designated "Cape ctly to impose a legal system of water” categories upon a million or more i culture makes them impossible to it be done? gh in the sense of approximation and After all the mapping and documenta e regressive transformation of Cape o to apartheid's human costs. You will d Coloured Capetonians in this book, of apartheid's central laws: the Group d carefully conceived urban plans de hite control. In Cape Town it so hap in the way of these plans were thos and the neighborhood which provide
 ym wasہو ? ہم ہTX* ۔ -ہ =
 Catherine, a Coloured resident of Mowbray,
@@ -132,7 +141,7 @@ at her wedding in 1946.
  
  
  
-ROLOGUE
+ROLOGUE
 O O
 vernment finally in power "1 o pick up the pieces in Cape R Riĉa where heretofore gover tly in order to segregate 驚 's accession represents a 蔷 util ebt ill legacy of apartheid will be sw ents? Yet, a major consideration eable urban futures the degree Ο gress' assumption of power is a Ri matter for dispute among po
 does the ANC want to do with the with roots in late nineteenth ಲಗ್ಧ ianism, with its Freedom Charter
@@ -146,7 +155,7 @@ ployment. Moreover, the phrase "taken as a whole" papers over the deep divide wi
 No, a more realistic government policy would be to pour resources into low-income, basic public housing. Thus the city would be changed only in areas of new construction, mostly on its periphery. This is indeed one of the main ways in which over four decades the apartheid city was achieved, but it was an enormously demanding and ongoing diversion of energies for the Afrikaner Nationalist governments. To them it was an ideological and strategic commitment of the highest order, for in it they saw one of the hopes for their survival. As a numerical minority, they felt they had to keep the cities mainly White and to put the Black African majority at arm's length, safely under surveillance in controllable, custom-built peripheral townships. Yet even the Nationalists with all their planned Sowetos and Mdantsanes could hardly keep up with the Black demographic realities of rural-urban migration and absolute population increase. At imense cost, they as it were ran as fast as they could, only to stay in the Same place.
 It seems unlikely that such expensive schemes for low-income pubhousing will loom so high on the ANC-led government's agenda. hether it be the erosion of the council housing idea in Thatcherite Totalin in the 1980s or the collapse at the end of that decade of “actuY existing socialism" in Eastern Europe and then in the Soviet E". State-provided completed housing seems at least for the molead to have globally gone into partial eclipse. Communist ANC :der and 1994 Minister of Housing Joe Slovo's last efforts were to
  
-ROLOGUE
+ROLOGUE
 =lectrical provision, and the furnishally limited educational facilities. InC-led government appear to have as t in housing. In early 1995 Minister utlining the priorities of the governiction and Development Programme, olute priority” because of its “enorst of the economy. He also said, how- that the government is not in the arlier, in the first days of the new gov
 of the Building Industries Federation dicted some 100,000 houses would be sixteen months that had elapsed by puses were built with state assistance. d mortgages, by November 1995 not 500 low-income home loans had been
 costs, any attempt to truly undo apartcy could incur social and political costs r might quite likely overwhelm the benimmediately encountered could prove African people. Suppose, for example, als of Whites from neighborhoods in Group Areas Act, they had supplanted t White. In many cases this would not luals who first profited from such resiencourage Whites who possessed skills South African economic development to untry. Nor would such urban reordering . In some areas Coloureds were oblig
@@ -174,7 +183,7 @@ equentl
 ༤ ༈ ། y So mis W
 | • श्री erable that in the absence of Pass Law controls
  
-PROLOGUE
+PROLOGUE
 t published, may now have a populaBlack Africans. Another statistic: from opulation of metropolitan Cape Town e newcomers Xhosa people from the tern Cape. What this means on the ian Malan:
 scrapped . . . it was as if a distant dam had te and hopeful humanity to come flooding t across the Cape Flats. They came at the ly, and built homes with their bare hands, bits and pieces of trash rescued from landep out the rain. Within two years, the sand mous sea of shacks and shanties, as densely opulated by fantastic characters-bootlegians, gun dealers and marijuana czars, plus
 people"
@@ -187,7 +196,7 @@ mediately prior to Occupation.
  
  
  
-1996, revealing its characteristic mix of order and t photographed in August 1985-with its ordered mally constructed houses-has been overwhelmed th provision of electricity now augmenting the e original development.
+1996, revealing its characteristic mix of order and t photographed in August 1985-with its ordered mally constructed houses-has been overwhelmed th provision of electricity now augmenting the e original development.
 situation: "A controlled core city and an periphery." wever, been restricted to the metropoli themselves in a second location. Within ormal housing has been springing upo ten specifically designed to have serve
 een the racial groups, ao then defined. In interstitial parcel of land within the city Thus shack conglomerations, limited it the peripheral areas, may appear either arconi Beam, in Milnerton, Cape Tow termaritzburg) or in small clusters (as "aan the ranks of the township's
 formê! مه مع
@@ -211,7 +220,7 @@ ould n ke th art of t ecessarily be enthusiasti у р po
  
  
  
-KOLOGUE
+KOLOGUE
 ation, they're liable to be left alone time. Such "land invasions” appear he of the greatest uncertainty over nd 1991. There was a real fear for djoining the city center at that time,
 ng peripheral or interstitial, a third ict on the overall landscape of South 2, "incumbent upgrading,” is associoduced into township housing forstate. In 1983 "The Great Sale,” a off, was instituted, and by 1989 just can government housing was in indi2nts, who as renters in the past were ditions or adornments officially torn se same homes. As a result, the previ[th African townships has been partly lf" diversity. "ee prior developments, a change that while apartheid was on the law books. "grey areas” (because neither Black Cape Town can now be seen so evirater-mark of urban apartheid-that nay have thought it more or less had sewn up the way it wanted, with the District Six being expelled in 1982burg a “White” area named Hillbrow a racially ambiguous zone. Eagerly d-for nonracial future, Hillbrow was A. sor of like zones in Durban, Cape bof the laritzburg, among others. In compar
 Upper Ashley Street, now gentrified as Blinde Street, among the hummocky, rubble strewn empty spaces of the former District Six. This was one of a handful of streets not razed to the ground.
@@ -243,7 +252,7 @@ ity territo n of extensiv
  
  
  
-PROLOGUE
+PROLOGUE
 more informally perhaps, ... At least for the foreseeable future, her subordinate groups will find their talist real-estate market, into favored, ial tracts. I anticipate no vast exodus, ned order. The future of South African ut that of Nairobi. Recent studies of em to indicate this. Such a future has cialized apartheid" back to the post-Pass Laws reality. As a me in June of 1996, "John, the differlast here and today is that half the East he western Cape." Certainly, the Cape canizing-but it's not Black African yet division of the Western Cape in whic fricans are still third in number behind no prospect of overhauling them in the ters of Western Cape citizens continue al identity in terms of apartheid's quadrithe regional government of the Western ANC one. This raises the possibility of government policies. Such obstruction, ntinuity in Cape Town-Pretoria relations utcast Cape Tö” demonstrates (PP: 121一 yn dragged its feet in implementing Group
 :12, red majority of the Western Cape voted Party: "the election Mandela lost" (as tively dubbed it)." How unthinkable: they
 pressors, concocters of the insulting for the creators of the Group Areas Act,
