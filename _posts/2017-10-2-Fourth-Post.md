@@ -116,7 +116,7 @@ cel
 Robert Coles
 |- iନ ନଂry n * A | T • » « • • • • • •
  
-Prologue
+Prologue
 The phrase "political joy" may strike many readers as close to oxymoronic. Yet to millions of South Africans, this was their experience of the election of April 27 and 28, 1994. They believe, as I do, that South Africa really has turned a corner. However, exploitation, inhumanity, and arrogance have not been banished as if by a magic wand from the beloved country. Far from striding out confidently upon the broad sunlit uplands of democratic liberation, South Africa will for many years be limping toward whatever better future it may envision as its goal, hobbled (though less securely than before) by the ball-andchain of apartheid. South Africans have only just begun to create their new "rainbow nation”. The particular portion of this their collective endeavor at which it is my business to look here is the country's changing urban geography. Why is it that I suspect South Africa's urPan areas are in fact confronting a less than millennial future? Why is it that the "awful legacy of apartheid” will long remain?
 These questions may be addressed in the first instance by investiEating how this awful legacy came to be. Such is the topic of Outcast Cape Town. The reader will come to appreciate that the roots of Partheid may be traced back to Cape Town's establishment in the Mwenteenth century, founded as part of that same great Dutch 蠶 trading enterprise that had founded New Amsterdam just a all ov黑 * earlier. Yet apartheid was not inevitable. Processes seen tive pe world-European commercial expansion, conquest of naS ¥.့် o: European appropriation of their lands, trans-oceanic colonial ဖြိုးမိုးါ;ü nineteenth-century competitiye imperialisms, "Settlers' demands for political independence from the mother
  
@@ -164,8 +164,8 @@ rhe eul جسم ہن؟ وہ ہم ہی ہمہ ۔۔۔۔۔
 PROLOGUE xxi
 ment seems unlikely, whether i
 - y it be either to und O
-ဖြုံးမျိုးဖြိုးဖြုံး
-I am logic ရှီဲါး ပုဇုံး); space of mass housing schemes. This ငှါး၊ pro
+
+I am logic; space of mass housing schemes. This ငှါး၊ pro
 four у to agree with David Smith's striking com 1ng so,
 an a
 predecessor? in what ways is it different from its regimented
