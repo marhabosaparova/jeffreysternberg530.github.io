@@ -1,5 +1,5 @@
 ---
-title:'Workset 3: Digitization of John Western's *Outcast Capetown*'
+title:'Workset 3 - Digitization of John Western's *Outcast Capetown*'
 date: 2017-10-02
 permalink: /posts/2017/10/blog-post-4/
 tags:
