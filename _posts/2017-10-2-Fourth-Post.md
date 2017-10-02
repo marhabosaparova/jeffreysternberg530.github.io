@@ -14,7 +14,7 @@ Outcast Cape Town
 John Western
 Forewor d by Robert Coles
  
-of Minnesota Press, 1981.
+of Minnesota Press, 1981.
 cation Data
 .
 es (p. ) and index.
@@ -114,8 +114,7 @@ ctual life of a profession, of a an encouraging y community of
 s S gn
 cel
 Robert Coles
-|- iନ ନଂry n * A | T • » « • • • • • •
- 
+
 Prologue
 The phrase "political joy" may strike many readers as close to oxymoronic. Yet to millions of South Africans, this was their experience of the election of April 27 and 28, 1994. They believe, as I do, that South Africa really has turned a corner. However, exploitation, inhumanity, and arrogance have not been banished as if by a magic wand from the beloved country. Far from striding out confidently upon the broad sunlit uplands of democratic liberation, South Africa will for many years be limping toward whatever better future it may envision as its goal, hobbled (though less securely than before) by the ball-andchain of apartheid. South Africans have only just begun to create their new "rainbow nation”. The particular portion of this their collective endeavor at which it is my business to look here is the country's changing urban geography. Why is it that I suspect South Africa's urPan areas are in fact confronting a less than millennial future? Why is it that the "awful legacy of apartheid” will long remain?
 These questions may be addressed in the first instance by investiEating how this awful legacy came to be. Such is the topic of Outcast Cape Town. The reader will come to appreciate that the roots of Partheid may be traced back to Cape Town's establishment in the Mwenteenth century, founded as part of that same great Dutch 蠶 trading enterprise that had founded New Amsterdam just a all ov黑 * earlier. Yet apartheid was not inevitable. Processes seen tive pe world-European commercial expansion, conquest of naS ¥.့် o: European appropriation of their lands, trans-oceanic colonial ဖြိုးမိုးါ;ü nineteenth-century competitiye imperialisms, "Settlers' demands for political independence from the mother
@@ -126,19 +125,6 @@ itch colonial empire brought differults, in what have become variously Brazil, o
 ym wasہو ? ہم ہTX* ۔ -ہ =
 Catherine, a Coloured resident of Mowbray,
 at her wedding in 1946.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
  
 ROLOGUE
@@ -171,14 +157,14 @@ an a
 predecessor? in what ways is it different from its regimented
 T result, there ဒို့.ို We flow: much Cape Town is ငါးဇုံဒ္ဓါန်းဇံး
 r repeal to bear in mind: th r 39 : that of th ಣ್ಣಲ್ಲy ဖုံဖုံ Act ). Because the focus of ႕; 战W Africans, did not people, this latter act, being directed at နုံးဂြို the гереal in ိုမှီးဝှိုါို’ ဒါးမီ the öööူ total narrative. But it is
-b rass Law, an the noni s ဇွို”့် ဖူဂဗုဒ္ဓုပ္ပါး administrative controls, of have brou ht Labour Preference Area fiဒ္ဓရုိးဂံး{ these : the greatest change to Cape Town. "Unprotect ပျံဂ် canized, s fiးနီ metropolitan Cape Town is now bi ူ့် Af
+b rass Law, an the noni s ဇွို”့် ဖူဂဗုဒ္ဓုပ္ပါး administrative controls, of have brou ht Labour Preference Area fiဒ္ဓရုိးဂံး these : the greatest change to Cape Town. "Unprotect ပျံဂ် canized, s fiးနီ metropolitan Cape Town is now bi ူ့် Af
 There 臀 foreseen on p. 323 of Outcast Cape y Arrıother Sးမျို႔Ä the Pass Law is central to recent chan es in th eas Acts was a C2 metropolitan areas also. The series of ང་ into the attempt to limit the number of Black Africans AIbered by in which Whites were decidedly
-frica continue proportion of Whites to Black Afri w behind : {{ဲ::{{::{ the most ;ို South settlement. by the Afrikaner Nationalists to a ne tä the proportion WE Cape Town was originally being r
-2, now it is 1 to 6 ites to Black Africans in the count (cိုၾင y fricans in So ". More dramatically, the total f S tO million to 4 uth Africa has in the past twen moer o Black
+frica continue proportion of Whites to Black Afri w behind : :: the most ;ို South settlement. by the Afrikaner Nationalists to a ne tä the proportion WE Cape Town was originally being r
+2, now it is 1 to 6 ites to Black Africans in the count cိုၾင y fricans in So ". More dramatically, the total f S tO million to 4 uth Africa has in the past twen moer o Black
 1On Π ΙΤΟΠΠ. Ι 7. TTO o 40 million. As Dewar succinctl ty years risen f 19.5 graphic tendencie ctly put it, "The dominant degraphic ci s are faster, younger, and 33) lab Circumstances play their rol ger, poorer.” Such demorole in South Africa's becoming a
 abor-surplu "ment Plus economy, the corollary of which is that the unempl
 oy
-late among th on may be ri g the economically active Black Afri are fr crising as high as 45%. Yet :ါး&[{ုမှူး||ဗူးပ္ပါး eaS
+late among th on may be ri g the economically active Black Afri are fr crising as high as 45%. Yet :ါး&[မှူး||ဗူးပ္ပါး eaS
 equentl
 ༤ ༈ ། y So mis W
 | • श्री erable that in the absence of Pass Law controls
@@ -198,7 +184,7 @@ mediately prior to Occupation.
  
 1996, revealing its characteristic mix of order and t photographed in August 1985-with its ordered mally constructed houses-has been overwhelmed th provision of electricity now augmenting the e original development.
 situation: "A controlled core city and an periphery." wever, been restricted to the metropoli themselves in a second location. Within ormal housing has been springing upo ten specifically designed to have serve
-een the racial groups, ao then defined. In interstitial parcel of land within the city Thus shack conglomerations, limited it the peripheral areas, may appear either arconi Beam, in Milnerton, Cape Tow termaritzburg) or in small clusters (as "aan the ranks of the township's
+een the racial groups, ao then defined. In interstitial parcel of land within the city Thus shack conglomerations, limited it the peripheral areas, may appear either arconi Beam, in Milnerton, Cape Tow termaritzburg) or in small clusters as "aan the ranks of the township's
 formê! مه مع
 Shack infills in L
 . The shacks have ac anga. The shacks are offically numbered (N1 38 ;
@@ -236,29 +222,13 @@ ity territo n of extensiv
 е Africa to ဇို့་་་་་་་་་་་་་ it, Surely, an opportunity for : of this binerne at times really have changed-as Socratic
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 PROLOGUE
 more informally perhaps, ... At least for the foreseeable future, her subordinate groups will find their talist real-estate market, into favored, ial tracts. I anticipate no vast exodus, ned order. The future of South African ut that of Nairobi. Recent studies of em to indicate this. Such a future has cialized apartheid" back to the post-Pass Laws reality. As a me in June of 1996, "John, the differlast here and today is that half the East he western Cape." Certainly, the Cape canizing-but it's not Black African yet division of the Western Cape in whic fricans are still third in number behind no prospect of overhauling them in the ters of Western Cape citizens continue al identity in terms of apartheid's quadrithe regional government of the Western ANC one. This raises the possibility of government policies. Such obstruction, ntinuity in Cape Town-Pretoria relations utcast Cape Tö” demonstrates (PP: 121一 yn dragged its feet in implementing Group
 :12, red majority of the Western Cape voted Party: "the election Mandela lost" (as tively dubbed it)." How unthinkable: they
 pressors, concocters of the insulting for the creators of the Group Areas Act,
 effects in their own lovely city are mani n's burden of the highest
 ways, now
-homicide rat 11)
+homicide rat 11
 lds went ahead and voted largely for F. W.
 resumably hoping his party would be mo" Town's historic Coloured-White charact"
 that election first arrived in Cape TÓw። think the situation was pretty clear:
