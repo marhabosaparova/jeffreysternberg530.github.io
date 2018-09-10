@@ -20,7 +20,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 # Site Author
 author:
   name             : "Jeffrey L Sternberg"
-  avatar           : "IMG_0678.JPG"
+  avatar           : "images/IMG_0678.JPG"
   bio              : "PhD Student in Sociology at Northeastern University"
   location         : "Boston, MA"
   employer         :
