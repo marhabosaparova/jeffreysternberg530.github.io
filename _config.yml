@@ -7,33 +7,33 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jeffrey L Sternberg"
-title_separator          : "-"
-name                     : &name "Jeffrey L Sternberg"
+title                    : "Marhabo Saparova"
+title_separator          : "."
+name                     : &name "Marhabo Saparova"
 description              : &description "My Academic Website"
-url                      : https://jeffreysternberg530.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marhabosaparova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jeffreysternberg530/jeffreysternberg530.github.io"
+repository               : "marhabosaparova/marhabosaparova.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 
 
 # Site Author
 author:
-  name             : "Jeffrey L Sternberg"
-  avatar           : "images/IMG_0678.JPG"
+  name             : "Marhabo Saparova"
+  avatar           : 
   bio              : "PhD Student in Sociology at Northeastern University"
   location         : "Boston, MA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sternberg.je@husky.neu.edu"
+  googlescholar    : 
+  email            : "saparova.m@husky.neu.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "jeff.sternberg"
+  facebook         : "marhabo.saparova"
   foursquare       :
-  github           : "jeffreysternberg530"
+  github           : "marhabosaparova"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JeffSternberg"
+  twitter          : "marhabo"
   vine             :
   weibo            :
   xing             :
